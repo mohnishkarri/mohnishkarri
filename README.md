@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri)](https://github.com/mohnishkarri/github-readme-stats)]
 
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&hide=contribs,prs)]
-
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&count_private=true)]
-
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true)]
-
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true&theme=radical)]
+![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohnishkarri&repo=nutrafit.github.io)](https://github.com/anuraghazra/github-readme-stats)
