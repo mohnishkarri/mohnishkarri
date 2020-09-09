@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-->
 
 ![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true&theme=radical)
+<br><br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohnishkarri&repo=nutrafit.github.io)](https://github.com/anuraghazra/github-readme-stats)
