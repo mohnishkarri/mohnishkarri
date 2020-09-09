@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true&theme=radical)
 <br><br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohnishkarri&repo=nutrafit.github.io)](https://github.com/mohnishkarri/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishkarri&layout=compact)](https://github.com/mohnishkarri/github-readme-stats)
