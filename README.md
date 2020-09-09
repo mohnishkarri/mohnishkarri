@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&hide=contribs,prs)]
 
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarrimohnishkarri&count_private=true)]
+[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&count_private=true)]
 
 [![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=mohnishkarri&show_icons=true)]
 
